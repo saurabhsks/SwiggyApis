@@ -108,6 +108,96 @@
         "maxTime": 35,
         "name": "Cake",
         "place": "Bakery Hazaribagh"
+    },
+    {
+        "image": "cake2.png",
+        "offer": "60% OFF UPTO ₹120",
+        "title": "Tan-sukh by kanha",
+        "rating": 4.5,
+        "minTime": 30,
+        "maxTime": 35,
+        "name": "Paneer Chilli",
+        "place": "Lal Kothi"
+    },
+    {
+        "image": "cake3.png",
+        "offer": "20% OFF UPTO ₹50",
+        "title": "Falahar Kota Kachori",
+        "rating": 4.5,
+        "minTime": 15,
+        "maxTime": 20,
+        "name": "Snakes Indian",
+        "place": "Ahinsa Circle"
+    },
+    {
+        "image": "cake4.png",
+        "offer": "Items at ₹99",
+        "title": "Theobroma",
+        "rating": 4.6,
+        "minTime": 15,
+        "maxTime": 20,
+        "name": "Bakery Desserts",
+        "place": "C-Scheme"
+    },
+    {
+        "image": "cake5.png",
+        "offer": "Items at ₹69",
+        "title": "Mama's Parantha",
+        "rating": 4.4,
+        "minTime": 30,
+        "maxTime": 35,
+        "name": "North India, Thalis",
+        "place": "Mansarovar"
+    },
+    {
+        "image": "cake6.png",
+        "offer": "50% OFF UPTO ₹95",
+        "title": "Punjabi Tadka",
+        "rating": 4.1,
+        "minTime": 20,
+        "maxTime": 25,
+        "name": "North India, Thalis",
+        "place": "Lal Kothi"
+    },
+    {
+        "image": "cake7.png",
+        "offer": "Items at ₹95",
+        "title": "Barista Coffee",
+        "rating": 4.3,
+        "minTime": 20,
+        "maxTime": 25,
+        "name": "Snakes,Desserts",
+        "place": "A Scheme"
+    },
+    {
+        "image": "cake8.png",
+        "offer": "30% OFF UPTO ₹75",
+        "title": "Drunken Money",
+        "rating": 4.7,
+        "minTime": 30,
+        "maxTime": 35,
+        "name": "Healthy Food, Juices",
+        "place": "Vaishali Nagar"
+    },
+    {
+        "image": "cake9.png",
+        "offer": "40% OFF UPTO ₹80",
+        "title": "Fasos Signature",
+        "rating": 4.1,
+        "minTime": 30,
+        "maxTime": 35,
+        "name": "Fast Food",
+        "place": "Bais Godam"
+    },
+    {
+        "image": "cake10.png",
+        "offer": "20% OFF UPTO ₹50",
+        "title": "Mithai Junction",
+        "rating": 4.2,
+        "minTime": 40,
+        "maxTime": 32,
+        "name": "Sweets,Punjabi",
+        "place": "Sindhi Camp"
     }
 
 ]
