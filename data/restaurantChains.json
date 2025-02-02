@@ -98,5 +98,16 @@
         "maxTime": 40,
         "name": "Cake",
         "place": "Chopsani Housing Board"
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/drhdabnilmc8nxzufovw",
+        "offer": "20% OFF UPTO ₹50",
+        "title": "Arti Bakery",
+        "rating": 4.2,
+        "minTime": 30,
+        "maxTime": 35,
+        "name": "Cake",
+        "place": "Bakey Hazaribagh"
     }
+
 ]
